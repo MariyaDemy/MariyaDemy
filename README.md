@@ -21,7 +21,7 @@ I love
 
 - languages :thought_balloon:
 - art :art: :clapper:
-# - and coding, of course :computer:
+#### - and coding, of course :computer:
 
 ### Skills and tools
 
