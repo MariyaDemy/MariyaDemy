@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 I love
 
-- languages
-- cinematography
-- and coding, of course :computer:
+- languages :thought_balloon:
+- art :art: :clapper:
+# - and coding, of course :computer:
 
 ### Skills and tools
 
