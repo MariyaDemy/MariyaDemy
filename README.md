@@ -41,7 +41,7 @@ You can contact me:
 
 [<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/doodle/2x/instagram-new.png" />][instagram]
 [<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
-<img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/clouds/2x/gmail-new.png" />
+<img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/plasticine/2x/gmail-new.png" />
 Mariya.Demi373@gmail.com
 
 [instagram]: https://www.instagram.com/mariyademy/
