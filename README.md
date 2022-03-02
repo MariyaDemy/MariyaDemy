@@ -1,4 +1,4 @@
-### Hey! 👋
+## Hey! 👋
 
 <!--
 **MariyaDemy/MariyaDemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ I love
 <br />
 <br />
 
-You can contact me: 
+## You can contact me: 
 
 [<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/doodle/2x/instagram-new.png" />][instagram]
 [<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
