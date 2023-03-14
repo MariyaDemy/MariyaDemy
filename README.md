@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Mariya and I'm a frontend developer
+### I'm Mariya and I'm a web-developer
 
 I love
 
